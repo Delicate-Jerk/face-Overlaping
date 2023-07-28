@@ -1,4 +1,4 @@
-# 1st Image Overlapping 2nd Image
+# Overlapped Image Config
 
 🎯 This is a Flask web application that detects facial features (eyes, nose, and mouth) in an image, overlaps a second image without rectangles around the features, and saves the updated overlapped image.
 
