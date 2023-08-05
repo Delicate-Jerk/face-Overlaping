@@ -1,10 +1,12 @@
 # Overlapped Image Config
 
+This application helps in choosing your custom face for a 3-D model that's deplloyed in a Unread Meta-Verse, as now apart from manually customizing your charachter you can just click a pic and use that pic on the face of your charachter.
 🎯 This is a Flask web application that detects facial features (eyes, nose, and mouth) in an image, overlaps a second image without rectangles around the features, and saves the updated overlapped image.
 
 🔍 **Objective:**
 
 The main objective of this application is to overlap a second image onto the first image, considering the facial features detected in the first image. The second image serves as the background, and the first image is overlaid on top, ensuring the facial features align properly.
+With the help of this you would be able to replace the face of a 3-D model in the metaverse with your own clicked photos.
 
 🛠️ **Technologies and Libraries:**
 
@@ -28,13 +30,14 @@ The main objective of this application is to overlap a second image onto the fir
 
 📂 **Directory Structure:**
 
-- `app.py`: Contains the Flask web application code.
+- `main.py`: Contains the Flask web application code.
 - `haarcascades/`: Directory containing the Haar cascade classifiers for face, eyes, nose, and mouth detection.
 - `Unknown.jpg`: The second image (background image) you want to overlap with the first image.
 
 📷 **Sample Images:**
 
 The sample images used in this repository are for demonstration purposes only. Feel free to replace `Unknown.jpg` with your own second image for experimentation.
+You can check the final result images in result folder name `main.png`. That png can be used to replace the face of any 3-D model.
 
 🚨 **Important Note:**
 
