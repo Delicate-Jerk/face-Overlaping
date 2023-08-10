@@ -52,4 +52,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Your Name](https://github.com/Delicate-Jerk)
 
-Happy overlapping! 🎉
+Happy overlapping 🎉
