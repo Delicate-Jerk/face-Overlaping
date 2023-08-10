@@ -50,6 +50,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 👩‍💻 **Author:**
 
-- [Your Name](https://github.com/Delicate-Jerk)
+- [Arshit Arora](https://github.com/Delicate-Jerk)
 
 Happy overlapping 🎉
