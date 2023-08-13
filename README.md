@@ -12,7 +12,7 @@ With the help of this you would be able to replace the face of a 3-D model in th
 
 - Python
 - Flask
-- OpenCV (cv2)
+- OpenCV(cv2)
 
 🖼️ **How It Works:**
 
